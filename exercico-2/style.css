@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  background-color: #909090;
+}
+
+.header {
+  display: flex;
+  flex-direction: row-reverse;
+  height: 50vh;
+}
+
+.circle-one {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.main {
+  display: flex;
+  height: 50vh;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.square-one {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.square-two {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}

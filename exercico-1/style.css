@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #909090;
+  display: flex;
+  height: 100vh;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.circle-one {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.circle-two {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
